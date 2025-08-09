@@ -41,7 +41,7 @@ Ce guide documente les techniques et scripts utilisés pour bypasser les restric
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ## Auteur
-Michael | GitHub: [VotreProfil]
+Miicha333l
 
 ---
 N’hésitez pas à adapter ce guide selon vos besoins et à partager vos astuces !
